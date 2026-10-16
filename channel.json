@@ -12,6 +12,136 @@
       "size": 33520,
       "sha256": "91b3b7a6a3cef5e57ca1fcd6c181766abdf3ceaa682e991d7443316c2e84b990",
       "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world07-edgefix02/"
+    },
+    {
+      "world_id": "world_08",
+      "version": "3.7.0-world08-rc1",
+      "pck": "world_08.pck",
+      "manifest": "world_08.json",
+      "signature": "world_08.sig",
+      "size": 23672,
+      "sha256": "dca6b635695b6c514aee82c1adf78e3756965b2d7e7a3422833cc1590762d868",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world08-10-rc1/"
+    },
+    {
+      "world_id": "world_09",
+      "version": "3.7.0-world09-rc1",
+      "pck": "world_09.pck",
+      "manifest": "world_09.json",
+      "signature": "world_09.sig",
+      "size": 23816,
+      "sha256": "b0aa263df2cabd4f92cfa6656aeb9217429930bf92cf493daabb2247189fc31c",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world08-10-rc1/"
+    },
+    {
+      "world_id": "world_10",
+      "version": "3.7.0-world10-rc1",
+      "pck": "world_10.pck",
+      "manifest": "world_10.json",
+      "signature": "world_10.sig",
+      "size": 24064,
+      "sha256": "c1a6c9bcde5463fd8c8dc73fe0c3c368ef9c957346d440389b4e741d39c0409d",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world08-10-rc1/"
+    },
+    {
+      "world_id": "world_11",
+      "version": "3.7.0-world11-rc1",
+      "pck": "world_11.pck",
+      "manifest": "world_11.json",
+      "signature": "world_11.sig",
+      "size": 22608,
+      "sha256": "d4ade87ec0fe364f4610a1d8239b7cdf3d591f8d5cc3c54aaa1f9373e8d20c9c",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world11-20-rc1/"
+    },
+    {
+      "world_id": "world_12",
+      "version": "3.7.0-world12-rc1",
+      "pck": "world_12.pck",
+      "manifest": "world_12.json",
+      "signature": "world_12.sig",
+      "size": 22744,
+      "sha256": "ce5d1e352adedddf4d9209e316c081bf5742e30323c1f4f9f3f5b15b745a0aae",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world11-20-rc1/"
+    },
+    {
+      "world_id": "world_13",
+      "version": "3.7.0-world13-rc1",
+      "pck": "world_13.pck",
+      "manifest": "world_13.json",
+      "signature": "world_13.sig",
+      "size": 22812,
+      "sha256": "1473495d30b85effb499959fc26a12af37bda35184316b99750fd25c55e39518",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world11-20-rc1/"
+    },
+    {
+      "world_id": "world_14",
+      "version": "3.7.0-world14-rc1",
+      "pck": "world_14.pck",
+      "manifest": "world_14.json",
+      "signature": "world_14.sig",
+      "size": 23008,
+      "sha256": "b8d58ab9a317e60cd1228ba2a4b9fdd3a4b37bcaf2ea60017ec7888d76a57f3a",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world11-20-rc1/"
+    },
+    {
+      "world_id": "world_15",
+      "version": "3.7.0-world15-rc1",
+      "pck": "world_15.pck",
+      "manifest": "world_15.json",
+      "signature": "world_15.sig",
+      "size": 23060,
+      "sha256": "7e4c16cde34d36747b3ad50badafeb7940efe699c15ed122118c7e04dfe21993",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world11-20-rc1/"
+    },
+    {
+      "world_id": "world_16",
+      "version": "3.7.0-world16-rc1",
+      "pck": "world_16.pck",
+      "manifest": "world_16.json",
+      "signature": "world_16.sig",
+      "size": 22544,
+      "sha256": "730ab84902e576b36a8ba3d72d3c04ec4c9844c94b2f3cccf4b02558a4fada47",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world11-20-rc1/"
+    },
+    {
+      "world_id": "world_17",
+      "version": "3.7.0-world17-rc1",
+      "pck": "world_17.pck",
+      "manifest": "world_17.json",
+      "signature": "world_17.sig",
+      "size": 22520,
+      "sha256": "fe4f7c6e31e980faa4c49df6ba4440cdfc9048e2202161456552430c90f703b6",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world11-20-rc1/"
+    },
+    {
+      "world_id": "world_18",
+      "version": "3.7.0-world18-rc1",
+      "pck": "world_18.pck",
+      "manifest": "world_18.json",
+      "signature": "world_18.sig",
+      "size": 22504,
+      "sha256": "ace11f44e9fe5a71190ce6769ba304c79b890115a3ec2e3d042be9abafd6bc36",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world11-20-rc1/"
+    },
+    {
+      "world_id": "world_19",
+      "version": "3.7.0-world19-rc1",
+      "pck": "world_19.pck",
+      "manifest": "world_19.json",
+      "signature": "world_19.sig",
+      "size": 22504,
+      "sha256": "4bd713c0b5fc883b0defa8cd53541353df068b9e41d56773143a1493c1d27d02",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world11-20-rc1/"
+    },
+    {
+      "world_id": "world_20",
+      "version": "3.7.0-world20-rc1",
+      "pck": "world_20.pck",
+      "manifest": "world_20.json",
+      "signature": "world_20.sig",
+      "size": 22512,
+      "sha256": "4bf5e7e68c02d6497d5928cba4f71210b0211c5ea4d60c7f72814aff3864bb1a",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world11-20-rc1/"
     }
   ]
 }
