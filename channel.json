@@ -142,6 +142,106 @@
       "size": 50704,
       "sha256": "11add779134fd3eb48f94c82d34288e7f1087d37f77f16d5aec452e2fc43c39f",
       "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world08-20-rc3-1/"
+    },
+    {
+      "world_id": "world_21",
+      "version": "3.7.0-world21-rc1",
+      "pck": "world_21.pck",
+      "manifest": "world_21.json",
+      "signature": "world_21.sig",
+      "size": 40256,
+      "sha256": "26a80ee970bb1b6c60cc5909f40570a4146922aac38c61d11d0d8bd2d82bedb5",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world21-30-rc1/"
+    },
+    {
+      "world_id": "world_22",
+      "version": "3.7.0-world22-rc1",
+      "pck": "world_22.pck",
+      "manifest": "world_22.json",
+      "signature": "world_22.sig",
+      "size": 40264,
+      "sha256": "c04c2299261909621864ab4c0aa3e259ef9944c4df51b32f1f3016631ed7dbeb",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world21-30-rc1/"
+    },
+    {
+      "world_id": "world_23",
+      "version": "3.7.0-world23-rc1",
+      "pck": "world_23.pck",
+      "manifest": "world_23.json",
+      "signature": "world_23.sig",
+      "size": 40248,
+      "sha256": "b16b889f34666e6fd618f1d69b641ef5408ed3358e0434b006b6696da015cc8b",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world21-30-rc1/"
+    },
+    {
+      "world_id": "world_24",
+      "version": "3.7.0-world24-rc1",
+      "pck": "world_24.pck",
+      "manifest": "world_24.json",
+      "signature": "world_24.sig",
+      "size": 40248,
+      "sha256": "98d6f0f91bb4b1d4bb0f27ab978409365452a594ffcad8f0d5fd83b7016ff165",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world21-30-rc1/"
+    },
+    {
+      "world_id": "world_25",
+      "version": "3.7.0-world25-rc1",
+      "pck": "world_25.pck",
+      "manifest": "world_25.json",
+      "signature": "world_25.sig",
+      "size": 40244,
+      "sha256": "03a9983b5daf56c341c0264beb86831cf5468c6950c2e237f799f2d7656ba8ba",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world21-30-rc1/"
+    },
+    {
+      "world_id": "world_26",
+      "version": "3.7.0-world26-rc1",
+      "pck": "world_26.pck",
+      "manifest": "world_26.json",
+      "signature": "world_26.sig",
+      "size": 39768,
+      "sha256": "f887f640eb1e9664a48b9579b75259316d87340c80b856c20e45ba06f891ec31",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world21-30-rc1/"
+    },
+    {
+      "world_id": "world_27",
+      "version": "3.7.0-world27-rc1",
+      "pck": "world_27.pck",
+      "manifest": "world_27.json",
+      "signature": "world_27.sig",
+      "size": 39756,
+      "sha256": "ce68066562e2ae75ba5bf3674bfbca3013bec7d44992726d61613751d49a2b6f",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world21-30-rc1/"
+    },
+    {
+      "world_id": "world_28",
+      "version": "3.7.0-world28-rc1",
+      "pck": "world_28.pck",
+      "manifest": "world_28.json",
+      "signature": "world_28.sig",
+      "size": 39716,
+      "sha256": "24f208db3ecbb38888584443df0722a62be964e48a2823df0c6b7ab9c244ecd4",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world21-30-rc1/"
+    },
+    {
+      "world_id": "world_29",
+      "version": "3.7.0-world29-rc1",
+      "pck": "world_29.pck",
+      "manifest": "world_29.json",
+      "signature": "world_29.sig",
+      "size": 39756,
+      "sha256": "86c0746b20962e58ce0e451369247cb29dbf62ee55862379872aeac347d8513d",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world21-30-rc1/"
+    },
+    {
+      "world_id": "world_30",
+      "version": "3.7.0-world30-rc1",
+      "pck": "world_30.pck",
+      "manifest": "world_30.json",
+      "signature": "world_30.sig",
+      "size": 39736,
+      "sha256": "6826c4799609f54cc3bf0021935f7b8f1106395952e11793c09aeaa41990e867",
+      "download_base": "https://github.com/OOPSRUN/OOPS-RUN-World-Updates/releases/download/world21-30-rc1/"
     }
   ]
 }
